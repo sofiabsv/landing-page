@@ -146,3 +146,13 @@ img {
   font-size: 18px;
   border-radius: 10px;
 }
+
+.footer {
+  display: flex;
+  background-color: #1f2937;
+  justify-content: center;
+  align-items: center;
+  color: #f9faf8;
+  padding: 25px 0;
+  font-size: 18px;
+}
